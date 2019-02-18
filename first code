@@ -7,14 +7,33 @@
 <html lang="en">
     
         <head>
-            <tittle>assignment</tittle>
+        
+            <tittle id="tital"> assignment</tittle>
     </head>
     
     <body>
     
+        <h1>most <em>most</em> important heading</h1>
+        
+        <h2> second heading</h2>
+        
     <p> woah does this work?</p>
+        
+        <ul>
+            <li><a href="#thisThing"></a>item 1</li>
+            <li>item 3</li>
+            <li>item 2</li>
+        </ul>
+    <!-- ul = unordered list, ol = ordered list -->
     
-    
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        
+        <h1 id="thisthing">this thing</h1>
+        
+        <footer>
+            <a href="#tital"> ^back to top^ </a>
+        </footer>
+        
     </body>
-    
+    <!-- command + S = save -->
 </html>
